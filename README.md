@@ -1,2 +1,2 @@
 # Registration-form
-An HTML-based Registration Form that utilizes various input fields, labels, and form validation attributes to capture and organize user data efficiently.
+his project is a Registration Form designed using HTML and CSS. It provides a structured and user-friendly interface for collecting user details such as name, email, password, and contact information with an attractive layout.
